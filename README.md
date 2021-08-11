@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mariyajosh
-- 👀 I’m interested in data science and problem solving 
+- 👀 I’m interested in  problem solving and Backend Development
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
