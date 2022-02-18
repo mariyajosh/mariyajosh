@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @mariyajosh
 - 👀 I’m interested in  problem solving and Backend Development
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning Micronaut, AWS and front-end technologies.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 mariyajosh/mariyajosh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
